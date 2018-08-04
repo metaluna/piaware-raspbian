@@ -1,0 +1,6 @@
+name: piaware
+title: Basic PiAware setup
+summary: Verify that the basic installation of PiAware and dump1090 is up and running
+version: 1.0
+supports:
+  - platform: raspbian
