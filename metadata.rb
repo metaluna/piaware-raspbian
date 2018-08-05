@@ -1,7 +1,7 @@
 name 'piaware-raspbian'
 maintainer 'Simon Hardijanto'
 maintainer_email 'simon@hardijanto.de'
-license 'all_rights'
+license 'Apache-2.0'
 description 'Installs/Configures PiAware on a Raspberry Pi running Raspbian Stretch'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md')) + IO.read(File.join(File.dirname(__FILE__), 'CHANGELOG.md'))
 version '0.1.0'
