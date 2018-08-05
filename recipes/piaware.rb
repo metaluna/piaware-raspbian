@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: piaware-raspbian
+# Cookbook Name:: piaware_raspbian
 # Recipe:: piaware
 #
 # Copyright (c) 2018 Simon Hardijanto, All Rights Reserved.

@@ -1,4 +1,4 @@
-# Piaware-Raspbian Cookbook
+# PiAware Raspbian Cookbook
 
 This cookbook will install PiAware including dump1090 on a Raspberry Pi running Raspbian Stretch.
 
